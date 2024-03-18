@@ -89,4 +89,3 @@ class ImageHelper{
         });
       }
 }
-window.imageHelper = new ImageHelper();
